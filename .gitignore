@@ -1,0 +1,17 @@
+# Python environments
+.venv/
+.venv-windows-backup/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.DS_Store
+Thumbs.db
